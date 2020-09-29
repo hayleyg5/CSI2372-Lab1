@@ -1,0 +1,7 @@
+﻿  Lab1.cpp
+C:\Users\User\Desktop\Lab1\Lab1\Lab1.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\User\Desktop\Lab1\Lab1\Lab1.cpp(29,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\Desktop\Lab1\Lab1\Lab1.cpp(51,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Lab1\Lab1\Lab1.cpp(60,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Lab1\Lab1\Lab1.cpp(60,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab1.vcxproj -> C:\Users\User\Desktop\Lab1\Lab1\Debug\Lab1.exe
