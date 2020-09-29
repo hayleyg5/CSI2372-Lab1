@@ -36,6 +36,6 @@ void main(void)
 	cout << "Type a character: ";
 	cin >> letter;
 	cout << "Your character is: " << letter << endl;
-	cout << "Your character in decimal format is: " << dec << letter << endl;
+	cout << "Your character in decimal format is: " << dec << int(letter) << endl;
 
 }
